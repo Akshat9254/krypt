@@ -15,7 +15,7 @@ const Navbar = () => {
     <nav className="w-full flex md:justify-center justify-between items-center p-4">
       <div className="md:flex-[0.5] flex-initial justify-center items-center">
         <h5 className="text-2xl sm:text-3xl text-white text-gradient py-1 cursor-pointer">
-          SAFE PAY
+          SMART PAY
         </h5>
       </div>
       <ul className="text-white md:flex hidden list-none flex-row justify-between items-center flex-initial">
